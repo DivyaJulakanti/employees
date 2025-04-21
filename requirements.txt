@@ -4,3 +4,4 @@ email-validator          # If using pydantic's EmailStr
 motor                    # For MongoDB
 sqlalchemy               # If using SQL databases
 jinja2                   # If using templates
+uvicorn
