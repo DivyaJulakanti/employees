@@ -5,3 +5,4 @@ motor                    # For MongoDB
 sqlalchemy               # If using SQL databases
 jinja2                   # If using templates
 uvicorn
+fastapi
